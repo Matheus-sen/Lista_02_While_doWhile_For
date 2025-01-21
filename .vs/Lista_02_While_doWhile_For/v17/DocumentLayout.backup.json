@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B2E21E-BC11-4E3F-82F3-26EB82221BEC}|Ex01\\Ex01.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B2E21E-BC11-4E3F-82F3-26EB82221BEC}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E1D39C-B084-4962-B99D-07D60BAB089C}|Ex10\\Ex10.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E1D39C-B084-4962-B99D-07D60BAB089C}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004FFDA9-94A8-4873-A5A2-1DAB4D481393}|Ex09\\Ex09.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004FFDA9-94A8-4873-A5A2-1DAB4D481393}|Ex09\\Ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC0113-72BC-4586-B76C-B4BE112CD04A}|Ex08\\Ex08.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BC0113-72BC-4586-B76C-B4BE112CD04A}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17249-84B6-43A7-B18A-E1DAA5BE5FF9}|Ex07\\Ex07.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D17249-84B6-43A7-B18A-E1DAA5BE5FF9}|Ex07\\Ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A918DFF-F15D-47F0-B55A-48CF3AF6798D}|Ex06\\Ex06.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A918DFF-F15D-47F0-B55A-48CF3AF6798D}|Ex06\\Ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27407511-D046-4D40-9F3C-65F79393FDE4}|Ex05\\Ex05.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27407511-D046-4D40-9F3C-65F79393FDE4}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C08961-B209-4532-957F-693A1BC4198A}|Ex04\\Ex04.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C08961-B209-4532-957F-693A1BC4198A}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EF00B0-9B88-49E1-BD2E-F9A18525ABA0}|Ex03\\Ex03.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EF00B0-9B88-49E1-BD2E-F9A18525ABA0}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AB0350-E0CB-4260-932B-935B045DA1B5}|Ex02\\Ex02.csproj|c:\\users\\matheus.smatos11\\source\\repos\\ex01\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AB0350-E0CB-4260-932B-935B045DA1B5}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex10\\Program.cs",
+              "RelativeToolTip": "Ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:16:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex09\\Program.cs",
+              "RelativeDocumentMoniker": "Ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex09\\Program.cs",
+              "RelativeToolTip": "Ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:15:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex08\\Program.cs",
+              "RelativeToolTip": "Ex08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:15:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex07\\Program.cs",
+              "RelativeToolTip": "Ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:14:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex01\\Program.cs",
+              "RelativeToolTip": "Ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:03:22.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex06\\Program.cs",
+              "RelativeToolTip": "Ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:13:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:06:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex04\\Program.cs",
+              "RelativeToolTip": "Ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:05:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:05:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Ex01\\Ex02\\Program.cs",
+              "RelativeToolTip": "Ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:05:33.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

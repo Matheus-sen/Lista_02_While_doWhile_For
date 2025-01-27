@@ -2,7 +2,7 @@
 
 
 int voto, candidatoA = 0, candidatoB = 0;
-Console.WriteLine("Insira os votos (1 para o candidato A e 2 para o candidato B): ");
+Console.WriteLine("Insira os votos (1 para o candidato A e 2 para o candidato B) ou pressione '0' para ver o resultado: ");
 
 /*
 while (true)

@@ -4,7 +4,7 @@ int produtoEstoque = 0;
 int produtos = 0;
 //int totalProdutos = produtoEstoque + produtos;
 
-Console.WriteLine("Insira a quantidade de produtos em estoque");
+Console.WriteLine("Insira a quantidade de produtos em estoque ou digite '0' para encerrar e ver a quantidade total de produtos em estoque");
 
 /*
 while (true)

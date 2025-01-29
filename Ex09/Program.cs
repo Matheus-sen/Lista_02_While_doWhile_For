@@ -1,4 +1,4 @@
-﻿// 9. Um cliente deseja saber o total de suas compras em um supermercado. o aluno deve solicitar que o usuário insira o valor de cada compra até que ele digite 0. A soma dos valores das compras deve ser implementada usando as três estruturas de repetição.
+﻿// 9. Um cliente deseja saber o total de suas compras em um supermercado. o aluno deve solicitar que o usuário insira o valor de cada compra até que ele digite 0. A soma dos valores das compras deve ser implementada usando as três estruturas de repetição;
 
 double valorCompra;
 double totalCompras = 0;

@@ -20,7 +20,7 @@ do
     dia = Convert.ToInt32(Console.ReadLine()); // lê o que o usuário digitou e verifica se é ou não diferente de '0'
     if (dia != 0) // condição para o loop acrescentar +1 nos dias trabalhados.
     {
-        diasTrabalhados++;
+        diasTrabalhados++; // "++" acrescenta +1
     }
 }
 while (dia != 0); // verifica a informação digitada e encerra o ciclo.

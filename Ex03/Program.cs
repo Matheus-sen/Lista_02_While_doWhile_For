@@ -6,11 +6,11 @@ double nota;
 /*
 while (true)
 {
-    Console.WriteLine("Digite a nota do aluno ou digite '-1' para finalizar e ver a quantidade de aprovados: ");
-    nota = Convert.ToDouble(Console.ReadLine());
-    if (nota >= 6 && nota <= 10)
+    Console.WriteLine("Digite a nota do aluno ou digite '-1' para finalizar e ver a quantidade de aprovados: "); //texto inicial
+    nota = Convert.ToDouble(Console.ReadLine()); //Lê o que o usuário digitar
+    if (nota >= 6 && nota <= 10) //condição verdadeiro ou falso - análisa duas condições >=6 'E' (&&) <=10
     {
-        alunosAprovados++;
+        alunosAprovados++; //condição sendo verdadeira, acrescenta +1 na variável alunosAprovados
     }
     if (nota == -1)
         break;

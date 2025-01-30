@@ -4,7 +4,7 @@ int alunosAprovados = 0;
 double nota;
 
 /*
-while (true)
+while (true) //inicia o loop verdadeiro
 {
     Console.WriteLine("Digite a nota do aluno ou digite '-1' para finalizar e ver a quantidade de aprovados: "); //texto inicial
     nota = Convert.ToDouble(Console.ReadLine()); //Lê o que o usuário digitar
@@ -12,10 +12,10 @@ while (true)
     {
         alunosAprovados++; //condição sendo verdadeira, acrescenta +1 na variável alunosAprovados
     }
-    if (nota == -1)
-        break;
+    if (nota == -1) //se condição verdadeira, o loop se encerra
+        break; // comando para encerra o loop
 }
-Console.WriteLine("O total de alunos aprovados com nota maior ou igual a 6 é: " + alunosAprovados);
+Console.WriteLine("O total de alunos aprovados com nota maior ou igual a 6 é: " + alunosAprovados); //imprime após encerramento do loop o total de aluno aprovado.
 */
 
 /*

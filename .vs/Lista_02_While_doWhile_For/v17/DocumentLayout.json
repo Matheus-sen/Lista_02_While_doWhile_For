@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Matheus\\Lista_02_While_doWhile_For\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0EF00B0-9B88-49E1-BD2E-F9A18525ABA0}|Ex03\\Ex03.csproj|c:\\matheus\\lista_02_while_dowhile_for\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EF00B0-9B88-49E1-BD2E-F9A18525ABA0}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4E1D39C-B084-4962-B99D-07D60BAB089C}|Ex10\\Ex10.csproj|c:\\matheus\\lista_02_while_dowhile_for\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4E1D39C-B084-4962-B99D-07D60BAB089C}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,6 +48,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:58:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex10\\Program.cs",
               "RelativeDocumentMoniker": "Ex10\\Program.cs",
               "ToolTip": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex10\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex09\\Program.cs",
               "RelativeDocumentMoniker": "Ex09\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Ex09\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:27:26.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:27:26.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex08\\Program.cs",
               "RelativeDocumentMoniker": "Ex08\\Program.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Ex08\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:27:19.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:27:19.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex07\\Program.cs",
               "RelativeDocumentMoniker": "Ex07\\Program.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Ex07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:27:13.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:27:13.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex06\\Program.cs",
               "RelativeDocumentMoniker": "Ex06\\Program.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "Ex06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:27:07.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:27:07.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex05\\Program.cs",
               "RelativeDocumentMoniker": "Ex05\\Program.cs",
@@ -115,12 +128,11 @@
               "RelativeToolTip": "Ex05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:26:56.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:26:56.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Matheus\\Lista_02_While_doWhile_For\\Ex04\\Program.cs",
               "RelativeDocumentMoniker": "Ex04\\Program.cs",
@@ -128,8 +140,7 @@
               "RelativeToolTip": "Ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:26:34.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T20:26:34.287Z"
             }
           ]
         }

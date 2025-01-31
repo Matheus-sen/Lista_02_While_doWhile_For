@@ -7,34 +7,34 @@ double idadeMedia;
 Console.WriteLine("Digite a idade ou '0' para ver a média entre as idade: ");
 
 /*
-while (true)
+while (true) // Inicio do loop
 {
-    idade = Convert.ToInt32(Console.ReadLine());
-    if (idade == 0)
+    idade = Convert.ToInt32(Console.ReadLine()); // recebe o que o usuário digitar
+    if (idade == 0) // verifica a condição se é verdadeira e caso seja, encerra o loop
         break;
-    somaIdade += idade;
-    contador++;
+    somaIdade += idade; // armazena as informações, e soma sempre com o número anterior digitado;
+    contador++; // adiciona +1 a cada giro do loop
 }
-idadeMedia = somaIdade / contador;
-Console.WriteLine("A média de idade é: " + idadeMedia);
+idadeMedia = somaIdade / contador; // divide o valor das indade com a quantidade de pessoas e entrega a média
+Console.WriteLine("A média de idade é: " + idadeMedia); //Imprime a média de idades
 */
 
 /*
-do
+do //Inicia o loop
 {
     idade = Convert.ToInt32(Console.ReadLine());
-    if (idade != 0)
+    if (idade != 0) //Verifica a condição, se idade for diferente de '0', ele roda a condição if
     {
-        somaIdade += idade;
-        contador++;
+        somaIdade += idade; //armazena as informações, e soma sempre com o número anterior digitado;
+        contador++; //adiciona +1 a cada giro do loop
     }
-}while (idade != 0);
+}while (idade != 0); // encerra o loop até o usuário digitar '0'
 idadeMedia = somaIdade / contador;
 Console.WriteLine("A média de idades é: " + idadeMedia);
 */
 
 /*
-for (; ; )
+for (; ; ) //loop sempre verdadeiro
 {
     idade = Convert.ToInt32(Console.ReadLine());
     if (idade == 0)
